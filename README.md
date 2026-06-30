@@ -7,7 +7,7 @@ This repository contains the end-to-end data analysis workflow, predictive/descr
 
 ## 1. Interactive Dashboard
 * **Platform:** Tableau Public
-* **Live Dashboard Link:** [View Live Interactive Dashboard](https://public.tableau.com/app/profile/agnes.agung/viz/IndonesianTourismDescriptiveAnalyticsPublicDashboard/DashboardTourismAnalytics)
+* **Live Dashboard Link:** [View Dashboard](https://public.tableau.com/app/profile/agnes.agung/viz/IndonesianTourismDescriptiveAnalyticsPublicDashboard/DashboardTourismAnalytics)
 
 ## 2. Source Code & Data Explorations
 * **File:** `Nama_File_Kamu.ipynb` (Jupyter Notebook)
